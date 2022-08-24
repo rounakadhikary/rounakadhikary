@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rounakadhikary
-- 👀 I’m interested in AI,Machine Learning,AR/VR
-- 🌱 I’m currently learning UX Designing
-- 💞️ I’m looking to collaborate on Design Projects
-- 📫 How to reach me rounak6adhikary8@gmail.com
+- 👀 I’m interested in Human Centered AI,HCI and XR Technologies.
+- 🌱 I’m the CEO of ProjectX.Cloud
+
 
 <!---
 rounakadhikary/rounakadhikary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
